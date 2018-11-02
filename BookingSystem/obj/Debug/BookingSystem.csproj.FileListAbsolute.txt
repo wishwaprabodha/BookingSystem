@@ -1,0 +1,8 @@
+c:\users\wishwa\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\bin\Debug\BookingSystem.exe.config
+c:\users\wishwa\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\bin\Debug\BookingSystem.exe
+c:\users\wishwa\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\bin\Debug\BookingSystem.pdb
+c:\users\wishwa\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\obj\Debug\BookingSystem.csprojResolveAssemblyReference.cache
+c:\users\wishwa\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\obj\Debug\BookingSystem.Properties.Resources.resources
+c:\users\wishwa\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\obj\Debug\BookingSystem.csproj.GenerateResource.Cache
+c:\users\wishwa\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\obj\Debug\BookingSystem.exe
+c:\users\wishwa\documents\visual studio 2015\Projects\BookingSystem\BookingSystem\obj\Debug\BookingSystem.pdb
